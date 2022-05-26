@@ -29,7 +29,7 @@ function Projects() {
             <Project
                 title="Personal Website"
                 image={ReactLogo}
-                link="https://github.com/jonsalaz/personalwebsite"
+                link="https://github.com/jonsalaz/JonathanSalazar"
                 desc="React based website to showcase my projects and skillset."
             />
         </Grid>

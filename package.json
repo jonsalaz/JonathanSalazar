@@ -1,7 +1,7 @@
 {
   "name": "personalwebsite",
   "version": "0.1.0",
-  "homepage": "https://jonsalaz.github.io/personalwebsite",
+  "homepage": "https://jonathansalazar.dev",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
