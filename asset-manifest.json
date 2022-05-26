@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.c6c04d1b.css",
-    "main.js": "/static/js/main.fc1d27bc.js",
+    "main.js": "/static/js/main.5affc25a.js",
     "static/js/787.6568e1bc.chunk.js": "/static/js/787.6568e1bc.chunk.js",
     "static/media/banner.jpg": "/static/media/banner.b01fe58a627e40c3b75b.jpg",
     "static/media/ScrabbleImage.png": "/static/media/ScrabbleImage.899b63b86be348755e24.png",
-    "static/media/ResumeFall2022.png": "/static/media/ResumeFall2022.f3e5805f6468555362c5.png",
+    "static/media/ResumeFall2022.png": "/static/media/ResumeFall2022.4835b1236fb874cfa871.png",
     "static/media/AuctionHouse.png": "/static/media/AuctionHouse.2139b9ddde9e6a975a68.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.c6c04d1b.css.map": "/static/css/main.c6c04d1b.css.map",
-    "main.fc1d27bc.js.map": "/static/js/main.fc1d27bc.js.map",
+    "main.5affc25a.js.map": "/static/js/main.5affc25a.js.map",
     "787.6568e1bc.chunk.js.map": "/static/js/787.6568e1bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6c04d1b.css",
-    "static/js/main.fc1d27bc.js"
+    "static/js/main.5affc25a.js"
   ]
 }
